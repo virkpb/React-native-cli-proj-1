@@ -1,7 +1,0 @@
-#Mon Sep 29 07:32:56 IST 2025
-base.1=D\:\\rn\\thenewone\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
-path.1=classes2.dex
-base.0=D\:\\rn\\thenewone\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=classes.dex
