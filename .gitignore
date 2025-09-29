@@ -1,8 +1,10 @@
+android/app/build/
+android/build/
+
 # OSX
 #
 .DS_Store
-android/app/build/
-android/build/
+
 
 # Xcode
 #
