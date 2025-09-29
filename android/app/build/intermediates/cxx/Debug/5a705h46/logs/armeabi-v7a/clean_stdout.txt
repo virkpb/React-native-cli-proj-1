@@ -1,0 +1,7 @@
+ninja: Entering directory `D:\rn\thenewone\android\app\.cxx\Debug\5a705h46\armeabi-v7a'
+[0/2] Re-checking globbed directories...
+[1/2] Re-running CMake...
+-- Configuring done
+-- Generating done
+FAILED: build.ninja 
+D:\User\Soft\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe --regenerate-during-build -SD:\rn\thenewone\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup -BD:\rn\thenewone\android\app\.cxx\Debug\5a705h46\armeabi-v7a
